@@ -1,14 +1,14 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Gatai","order":1,"parentId":0,"scrollX":622.9090909090909,"scrollY":495.2727272727273},
-{"id":2,"expanded":true,"name":"Namimeido","order":3,"parentId":0,"scrollX":781.1999999999999,"scrollY":994.8},
+{"id":2,"expanded":true,"name":"Namimeido","order":3,"parentId":0,"scrollX":571,"scrollY":995},
 {"id":3,"expanded":true,"name":"Capital da nação Kibou","order":2,"parentId":0,"scrollX":851,"scrollY":2121},
-{"id":4,"expanded":true,"name":"Namimeido Farol","order":5,"parentId":0,"scrollX":851,"scrollY":709},
-{"id":5,"expanded":true,"name":"Namimeido Escola","order":10,"parentId":0,"scrollX":790.8,"scrollY":445.2},
-{"id":6,"expanded":false,"name":"Farol1","order":6,"parentId":4,"scrollX":781.1999999999999,"scrollY":514.8},
+{"id":4,"expanded":true,"name":"Namimeido Farol","order":5,"parentId":0,"scrollX":851,"scrollY":597},
+{"id":5,"expanded":true,"name":"Namimeido Escola","order":10,"parentId":0,"scrollX":571,"scrollY":493},
+{"id":6,"expanded":false,"name":"Farol1","order":6,"parentId":4,"scrollX":571,"scrollY":589},
 {"id":7,"expanded":false,"name":"Farol2","order":7,"parentId":4,"scrollX":832,"scrollY":640},
-{"id":8,"expanded":true,"name":"Farol3","order":8,"parentId":4,"scrollX":651,"scrollY":451},
-{"id":9,"expanded":false,"name":"Farol4","order":9,"parentId":4,"scrollX":651,"scrollY":589},
-{"id":10,"expanded":false,"name":"Escola","order":4,"parentId":2,"scrollX":790.8,"scrollY":445.2},
-{"id":11,"expanded":false,"name":"Escola","order":11,"parentId":5,"scrollX":2636,"scrollY":1484}
+{"id":8,"expanded":true,"name":"Farol3","order":8,"parentId":4,"scrollX":571,"scrollY":443.5},
+{"id":9,"expanded":false,"name":"Farol4","order":9,"parentId":4,"scrollX":571,"scrollY":589},
+{"id":10,"expanded":false,"name":"Casa de Aika","order":4,"parentId":2,"scrollX":579,"scrollY":371},
+{"id":11,"expanded":false,"name":"Escola","order":11,"parentId":5,"scrollX":579,"scrollY":371}
 ]
