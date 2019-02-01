@@ -1,5 +1,5 @@
 [
 null,
 {"id":1,"battlerName":"kurikara1","characterIndex":0,"characterName":"kurikara1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kurikara1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kurikara","nickname":"Guardião de Suzaku","note":"","profile":""},
-{"id":2,"battlerName":"aika","characterIndex":0,"characterName":"aika","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"aika","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aika","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"aika","characterIndex":0,"characterName":"aika","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"aika","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aika","nickname":"","note":"","profile":""}
 ]

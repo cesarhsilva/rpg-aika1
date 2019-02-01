@@ -9,12 +9,12 @@ null,
 {"id":7,"expanded":false,"name":"Farol2","order":9,"parentId":4,"scrollX":534,"scrollY":589},
 {"id":8,"expanded":true,"name":"Farol3","order":10,"parentId":4,"scrollX":571,"scrollY":444},
 {"id":9,"expanded":false,"name":"Farol4","order":11,"parentId":4,"scrollX":571,"scrollY":589},
-{"id":10,"expanded":false,"name":"Casa de Aika","order":5,"parentId":2,"scrollX":694.8,"scrollY":445.2},
+{"id":10,"expanded":false,"name":"Casa de Aika","order":5,"parentId":2,"scrollX":772,"scrollY":494.6666666666667},
 {"id":11,"expanded":false,"name":"Escola","order":13,"parentId":5,"scrollX":694.8,"scrollY":445.2},
 {"id":12,"expanded":false,"name":"Evento Cosplay","order":6,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":13,"expanded":true,"name":"Cavena Prologo","order":14,"parentId":0,"scrollX":579,"scrollY":371},
 {"id":14,"expanded":false,"name":"Prisão1","order":17,"parentId":0,"scrollX":979,"scrollY":1077},
 {"id":15,"expanded":false,"name":"Prisão3","order":15,"parentId":0,"scrollX":979,"scrollY":701},
-{"id":16,"expanded":false,"name":"Quarto de Kurikara no castelo","order":2,"parentId":3,"scrollX":694.8,"scrollY":445.2},
-{"id":17,"expanded":false,"name":"Templo","order":3,"parentId":3,"scrollX":761.3333333333334,"scrollY":945.3333333333334}
+{"id":16,"expanded":false,"name":"Quarto de Kurikara no castelo","order":2,"parentId":3,"scrollX":772,"scrollY":494.6666666666667},
+{"id":17,"expanded":false,"name":"Templo","order":3,"parentId":3,"scrollX":816,"scrollY":800}
 ]
