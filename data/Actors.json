@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"aika","characterIndex":0,"characterName":"aika","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"aika","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aika","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"aika","characterIndex":0,"characterName":"aika","classId":5,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"aika","traits":[],"initialLevel":5,"maxLevel":99,"name":"Aika","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"kurikara1","characterIndex":0,"characterName":"kurikara1","classId":1,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"kurikara1","traits":[],"initialLevel":5,"maxLevel":99,"name":"Kurikara","nickname":"Guardião de Suzaku","note":"","profile":""},
 {"id":3,"battlerName":"iruka","characterIndex":0,"characterName":"iruka","classId":6,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"iruka","traits":[],"initialLevel":5,"maxLevel":99,"name":"Iruka","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"riko","characterIndex":0,"characterName":"riko","classId":2,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"riko","traits":[],"initialLevel":5,"maxLevel":99,"name":"Riko","nickname":"","note":"","profile":""}
